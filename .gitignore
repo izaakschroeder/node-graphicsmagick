@@ -1,0 +1,9 @@
+# Ignore the binaries folder
+build
+# Ignore wscript lock
+.lock-wscript
+# Test output image
+output.jpg
+# Windows image preview
+Thumbs.db
+

@@ -1,0 +1,3 @@
+= Graphics Magick =
+
+This package contains Graphics Magick bindings for node.js.

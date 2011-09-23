@@ -1,0 +1,6 @@
+{
+	"name": "graphicsmagick",
+	"description": "Bindings to the graphicsmagick library.",
+	"author": "Izaak Schroeder",
+	"engine": "node >= 0.4.10"
+}
