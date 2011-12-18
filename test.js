@@ -1,5 +1,5 @@
 var 
-	graphicsMagick = require('./build/default/GraphicsMagick'),
+	graphicsMagick = require('./build/Release/GraphicsMagick'),
 	fs = require('fs');
 
 var inputFile = "test.jpg";
