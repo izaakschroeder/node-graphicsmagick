@@ -17,4 +17,3 @@ def build(bld):
   obj.cxxflags = [ ]
   obj.target = "GraphicsMagick"
   obj.source = "GraphicsMagick.cc"
-  
